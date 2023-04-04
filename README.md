@@ -30,6 +30,4 @@ If you would like to contribute to the development of this application, please f
 
 If you have any questions or issues with the application, please don't hesitate to contact us at [ndx199@gmail.com].
 
-## License
 
-This application is licensed under the `MIT License`.
