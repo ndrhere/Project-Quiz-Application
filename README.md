@@ -26,8 +26,9 @@ To use the application, simply select the topic you wish to be quizzed on and cl
 
 If you would like to contribute to the development of this application, please feel free to fork the repository and submit a pull request.
 
-## License
+## Support
 
-This application is licensed under the `MIT License`.
+If you have any questions or issues with the application, please don't hesitate to contact us at [ndx199@gmail.com].
+
 
 
